@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c50d387b-2363-449c-8363-19315f349886" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Store9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/dxghjbknlm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/flower.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/product_images/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/product_images/dxghjbknlm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/product_images/heard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/product_images/heard_4rzlWJm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/shop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/shop/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/shop/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/shop/filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/shop/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/shop/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/shop/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/shop/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/shop/translation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/shop/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/shop/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mysite" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.venv/Lib/site-packages/rest_framework/generics.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2mCiRWoUvyry42tpRbmU4po5KYK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Ханайым/PycharmProjects/pythonProject1",
+    "settings.editor.selected.configurable": "preferences.editor"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c50d387b-2363-449c-8363-19315f349886" name="Changes" comment="" />
+      <created>1726586950862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726586950862</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
